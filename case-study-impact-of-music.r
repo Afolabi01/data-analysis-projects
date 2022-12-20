@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "0763f2f5",
+   "id": "219f8b2b",
    "metadata": {
     "papermill": {
-     "duration": 0.004146,
-     "end_time": "2022-12-17T00:25:10.595896",
+     "duration": 0.004823,
+     "end_time": "2022-12-20T21:42:22.055469",
      "exception": false,
-     "start_time": "2022-12-17T00:25:10.591750",
+     "start_time": "2022-12-20T21:42:22.050646",
      "status": "completed"
     },
     "tags": []
@@ -41,19 +41,23 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "c4ecb393",
+   "id": "bff2bb60",
    "metadata": {
+    "collapsed": true,
     "execution": {
-     "iopub.execute_input": "2022-12-17T00:25:10.605503Z",
-     "iopub.status.busy": "2022-12-17T00:25:10.603235Z",
-     "iopub.status.idle": "2022-12-17T00:25:12.268372Z",
-     "shell.execute_reply": "2022-12-17T00:25:12.266520Z"
+     "iopub.execute_input": "2022-12-20T21:42:22.066536Z",
+     "iopub.status.busy": "2022-12-20T21:42:22.064402Z",
+     "iopub.status.idle": "2022-12-20T21:42:23.956577Z",
+     "shell.execute_reply": "2022-12-20T21:42:23.954277Z"
+    },
+    "jupyter": {
+     "outputs_hidden": true
     },
     "papermill": {
-     "duration": 1.672596,
-     "end_time": "2022-12-17T00:25:12.271217",
+     "duration": 1.904793,
+     "end_time": "2022-12-20T21:42:23.963636",
      "exception": false,
-     "start_time": "2022-12-17T00:25:10.598621",
+     "start_time": "2022-12-20T21:42:22.058843",
      "status": "completed"
     },
     "tags": []
@@ -108,20 +112,20 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "bd6062b4",
+   "id": "74040e2e",
    "metadata": {
     "_kg_hide-output": true,
     "execution": {
-     "iopub.execute_input": "2022-12-17T00:25:12.310056Z",
-     "iopub.status.busy": "2022-12-17T00:25:12.279654Z",
-     "iopub.status.idle": "2022-12-17T00:25:12.688785Z",
-     "shell.execute_reply": "2022-12-17T00:25:12.687014Z"
+     "iopub.execute_input": "2022-12-20T21:42:24.030108Z",
+     "iopub.status.busy": "2022-12-20T21:42:23.974965Z",
+     "iopub.status.idle": "2022-12-20T21:42:24.642594Z",
+     "shell.execute_reply": "2022-12-20T21:42:24.640301Z"
     },
     "papermill": {
-     "duration": 0.418586,
-     "end_time": "2022-12-17T00:25:12.693174",
+     "duration": 0.679377,
+     "end_time": "2022-12-20T21:42:24.647134",
      "exception": false,
-     "start_time": "2022-12-17T00:25:12.274588",
+     "start_time": "2022-12-20T21:42:23.967757",
      "status": "completed"
     },
     "tags": []
@@ -669,13 +673,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "12a1a157",
+   "id": "24f341ae",
    "metadata": {
     "papermill": {
-     "duration": 0.004862,
-     "end_time": "2022-12-17T00:25:12.703102",
+     "duration": 0.006519,
+     "end_time": "2022-12-20T21:42:24.660230",
      "exception": false,
-     "start_time": "2022-12-17T00:25:12.698240",
+     "start_time": "2022-12-20T21:42:24.653711",
      "status": "completed"
     },
     "tags": []
@@ -687,23 +691,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "ac889ef2",
+   "id": "265ae547",
    "metadata": {
-    "collapsed": true,
     "execution": {
-     "iopub.execute_input": "2022-12-17T00:25:12.716578Z",
-     "iopub.status.busy": "2022-12-17T00:25:12.715048Z",
-     "iopub.status.idle": "2022-12-17T00:25:12.766164Z",
-     "shell.execute_reply": "2022-12-17T00:25:12.764442Z"
-    },
-    "jupyter": {
-     "outputs_hidden": true
+     "iopub.execute_input": "2022-12-20T21:42:24.676215Z",
+     "iopub.status.busy": "2022-12-20T21:42:24.674208Z",
+     "iopub.status.idle": "2022-12-20T21:42:24.731601Z",
+     "shell.execute_reply": "2022-12-20T21:42:24.729578Z"
     },
     "papermill": {
-     "duration": 0.060337,
-     "end_time": "2022-12-17T00:25:12.768478",
+     "duration": 0.068521,
+     "end_time": "2022-12-20T21:42:24.734451",
      "exception": false,
-     "start_time": "2022-12-17T00:25:12.708141",
+     "start_time": "2022-12-20T21:42:24.665930",
      "status": "completed"
     },
     "tags": []
@@ -799,13 +799,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "5b8cd470",
+   "id": "d4e9574c",
    "metadata": {
     "papermill": {
-     "duration": 0.005203,
-     "end_time": "2022-12-17T00:25:12.778840",
+     "duration": 0.006315,
+     "end_time": "2022-12-20T21:42:24.747020",
      "exception": false,
-     "start_time": "2022-12-17T00:25:12.773637",
+     "start_time": "2022-12-20T21:42:24.740705",
      "status": "completed"
     },
     "tags": []
@@ -817,19 +817,20 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "74624514",
+   "id": "6a8c3473",
    "metadata": {
+    "_kg_hide-output": true,
     "execution": {
-     "iopub.execute_input": "2022-12-17T00:25:12.792767Z",
-     "iopub.status.busy": "2022-12-17T00:25:12.791226Z",
-     "iopub.status.idle": "2022-12-17T00:25:12.887105Z",
-     "shell.execute_reply": "2022-12-17T00:25:12.885385Z"
+     "iopub.execute_input": "2022-12-20T21:42:24.763310Z",
+     "iopub.status.busy": "2022-12-20T21:42:24.761498Z",
+     "iopub.status.idle": "2022-12-20T21:42:24.861711Z",
+     "shell.execute_reply": "2022-12-20T21:42:24.859838Z"
     },
     "papermill": {
-     "duration": 0.105669,
-     "end_time": "2022-12-17T00:25:12.889578",
+     "duration": 0.111759,
+     "end_time": "2022-12-20T21:42:24.864562",
      "exception": false,
-     "start_time": "2022-12-17T00:25:12.783909",
+     "start_time": "2022-12-20T21:42:24.752803",
      "status": "completed"
     },
     "tags": []
@@ -953,37 +954,37 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2cc167ff",
+   "id": "82033d27",
    "metadata": {
     "papermill": {
-     "duration": 0.005589,
-     "end_time": "2022-12-17T00:25:12.900670",
+     "duration": 0.006692,
+     "end_time": "2022-12-20T21:42:24.877877",
      "exception": false,
-     "start_time": "2022-12-17T00:25:12.895081",
+     "start_time": "2022-12-20T21:42:24.871185",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "I would now go ahead to check the summary of my dataset, with this I would be able to make some inferences of the distribution of my data."
+    "I would now go ahead to remove the timestamp and the permissions variables then check the summary of my dataset, with this I would be able to make some inferences of the distribution of my data."
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "1c5deb7c",
+   "id": "e59d3ba8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-17T00:25:12.914865Z",
-     "iopub.status.busy": "2022-12-17T00:25:12.913297Z",
-     "iopub.status.idle": "2022-12-17T00:25:12.942875Z",
-     "shell.execute_reply": "2022-12-17T00:25:12.940687Z"
+     "iopub.execute_input": "2022-12-20T21:42:24.895824Z",
+     "iopub.status.busy": "2022-12-20T21:42:24.894099Z",
+     "iopub.status.idle": "2022-12-20T21:42:24.932990Z",
+     "shell.execute_reply": "2022-12-20T21:42:24.930938Z"
     },
     "papermill": {
-     "duration": 0.039931,
-     "end_time": "2022-12-17T00:25:12.945914",
+     "duration": 0.050986,
+     "end_time": "2022-12-20T21:42:24.936053",
      "exception": false,
-     "start_time": "2022-12-17T00:25:12.905983",
+     "start_time": "2022-12-20T21:42:24.885067",
      "status": "completed"
     },
     "tags": []
@@ -992,86 +993,78 @@
     {
      "data": {
       "text/plain": [
-       "  timestamp              age                                     platform  \n",
-       " Length:629         Min.   :10.00                                    :  1  \n",
-       " Class :character   1st Qu.:18.00   Apple Music                      : 43  \n",
-       " Mode  :character   Median :21.00   I do not use a streaming service.: 56  \n",
-       "                    Mean   :24.76   Other streaming service          : 41  \n",
-       "                    3rd Qu.:27.00   Pandora                          : 10  \n",
-       "                    Max.   :89.00   Spotify                          :402  \n",
-       "                                    YouTube Music                    : 76  \n",
-       " hours_per_day    while_working instrumentalist composer \n",
-       " Min.   : 0.000      :  1          :  3         No :519  \n",
-       " 1st Qu.: 2.000   No :128       No :420         Yes:110  \n",
-       " Median : 3.000   Yes:500       Yes:206                  \n",
-       " Mean   : 3.711                                          \n",
-       " 3rd Qu.: 5.000                                          \n",
-       " Max.   :24.000                                          \n",
-       "                                                         \n",
-       "            fav_genre   exploratory foreign_languages      bpm          \n",
-       " Rock            :151   No :169        :  3           Min.   :0.00e+00  \n",
-       " Pop             : 97   Yes:460     No :273           1st Qu.:1.00e+02  \n",
-       " Metal           : 78               Yes:353           Median :1.20e+02  \n",
-       " Classical       : 40                                 Mean   :1.59e+06  \n",
-       " Video game music: 37                                 3rd Qu.:1.44e+02  \n",
-       " EDM             : 36                                 Max.   :1.00e+09  \n",
-       " (Other)         :190                                                   \n",
-       "      frequency_classical       frequency_country         frequency_edm\n",
-       " Never          :142      Never          :300     Never          :258  \n",
-       " Rarely         :225      Rarely         :189     Rarely         :163  \n",
-       " Sometimes      :174      Sometimes      : 97     Sometimes      :123  \n",
-       " Very frequently: 88      Very frequently: 43     Very frequently: 85  \n",
-       "                                                                       \n",
-       "                                                                       \n",
-       "                                                                       \n",
-       "         frequency_folk        frequency_gospel       frequency_hip_hop\n",
-       " Never          :250    Never          :458     Never          :152    \n",
-       " Rarely         :185    Rarely         :114     Rarely         :180    \n",
-       " Sometimes      :130    Sometimes      : 45     Sometimes      :183    \n",
-       " Very frequently: 64    Very frequently: 12     Very frequently:114    \n",
-       "                                                                       \n",
-       "                                                                       \n",
-       "                                                                       \n",
-       "         frequency_jazz        frequency_k_pop        frequency_latin\n",
-       " Never          :217    Never          :354    Never          :373   \n",
-       " Rarely         :214    Rarely         :147    Rarely         :145   \n",
-       " Sometimes      :149    Sometimes      : 56    Sometimes      : 79   \n",
-       " Very frequently: 49    Very frequently: 72    Very frequently: 32   \n",
+       "      age                                     platform   hours_per_day   \n",
+       " Min.   :10.00                                    :  1   Min.   : 0.000  \n",
+       " 1st Qu.:18.00   Apple Music                      : 43   1st Qu.: 2.000  \n",
+       " Median :21.00   I do not use a streaming service.: 56   Median : 3.000  \n",
+       " Mean   :24.76   Other streaming service          : 41   Mean   : 3.711  \n",
+       " 3rd Qu.:27.00   Pandora                          : 10   3rd Qu.: 5.000  \n",
+       " Max.   :89.00   Spotify                          :402   Max.   :24.000  \n",
+       "                 YouTube Music                    : 76                   \n",
+       " while_working instrumentalist composer             fav_genre   exploratory\n",
+       "    :  1          :  3         No :519   Rock            :151   No :169    \n",
+       " No :128       No :420         Yes:110   Pop             : 97   Yes:460    \n",
+       " Yes:500       Yes:206                   Metal           : 78              \n",
+       "                                         Classical       : 40              \n",
+       "                                         Video game music: 37              \n",
+       "                                         EDM             : 36              \n",
+       "                                         (Other)         :190              \n",
+       " foreign_languages      bpm                frequency_classical\n",
+       "    :  3           Min.   :0.00e+00   Never          :142     \n",
+       " No :273           1st Qu.:1.00e+02   Rarely         :225     \n",
+       " Yes:353           Median :1.20e+02   Sometimes      :174     \n",
+       "                   Mean   :1.59e+06   Very frequently: 88     \n",
+       "                   3rd Qu.:1.44e+02                           \n",
+       "                   Max.   :1.00e+09                           \n",
+       "                                                              \n",
+       "       frequency_country         frequency_edm         frequency_folk\n",
+       " Never          :300     Never          :258   Never          :250   \n",
+       " Rarely         :189     Rarely         :163   Rarely         :185   \n",
+       " Sometimes      : 97     Sometimes      :123   Sometimes      :130   \n",
+       " Very frequently: 43     Very frequently: 85   Very frequently: 64   \n",
        "                                                                     \n",
        "                                                                     \n",
        "                                                                     \n",
-       "         frequency_lofi        frequency_metal         frequency_pop\n",
-       " Never          :236    Never          :228    Never          : 50  \n",
-       " Rarely         :182    Rarely         :162    Rarely         :118  \n",
-       " Sometimes      :136    Sometimes      :113    Sometimes      :219  \n",
-       " Very frequently: 75    Very frequently:126    Very frequently:242  \n",
-       "                                                                    \n",
-       "                                                                    \n",
-       "                                                                    \n",
-       "         frequency_r_b         frequency_rap         frequency_rock\n",
-       " Never          :189   Never          :163   Never          : 83   \n",
-       " Rarely         :174   Rarely         :181   Rarely         : 79   \n",
-       " Sometimes      :157   Sometimes      :167   Sometimes      :185   \n",
-       " Very frequently:109   Very frequently:118   Very frequently:282   \n",
+       "        frequency_gospel       frequency_hip_hop         frequency_jazz\n",
+       " Never          :458     Never          :152     Never          :217   \n",
+       " Rarely         :114     Rarely         :180     Rarely         :214   \n",
+       " Sometimes      : 45     Sometimes      :183     Sometimes      :149   \n",
+       " Very frequently: 12     Very frequently:114     Very frequently: 49   \n",
+       "                                                                       \n",
+       "                                                                       \n",
+       "                                                                       \n",
+       "        frequency_k_pop        frequency_latin         frequency_lofi\n",
+       " Never          :354    Never          :373    Never          :236   \n",
+       " Rarely         :147    Rarely         :145    Rarely         :182   \n",
+       " Sometimes      : 56    Sometimes      : 79    Sometimes      :136   \n",
+       " Very frequently: 72    Very frequently: 32    Very frequently: 75   \n",
+       "                                                                     \n",
+       "                                                                     \n",
+       "                                                                     \n",
+       "        frequency_metal         frequency_pop         frequency_r_b\n",
+       " Never          :228    Never          : 50   Never          :189  \n",
+       " Rarely         :162    Rarely         :118   Rarely         :174  \n",
+       " Sometimes      :113    Sometimes      :219   Sometimes      :157  \n",
+       " Very frequently:126    Very frequently:242   Very frequently:109  \n",
        "                                                                   \n",
        "                                                                   \n",
        "                                                                   \n",
-       "   frequency_video_game_music    anxiety      depression     insomnia  \n",
-       " Never          :197          7      :103   7      : 82   0      :129  \n",
-       " Rarely         :173          8      :100   6      : 79   2      : 67  \n",
-       " Sometimes      :164          6      : 74   2      : 76   1      : 66  \n",
-       " Very frequently: 95          3      : 62   0      : 68   3      : 62  \n",
-       "                              10     : 59   8      : 67   7      : 54  \n",
-       "                              4      : 49   4      : 56   6      : 53  \n",
-       "                              (Other):182   (Other):201   (Other):198  \n",
-       "      ocd      music_effects permissions       \n",
-       " 0      :211   7      :103   Length:629        \n",
-       " 1      : 83   8      :100   Class :character  \n",
-       " 2      : 81   6      : 74   Mode  :character  \n",
-       " 3      : 56   3      : 62                     \n",
-       " 5      : 49   10     : 59                     \n",
-       " 4      : 35   4      : 49                     \n",
-       " (Other):114   (Other):182                     "
+       "         frequency_rap         frequency_rock   frequency_video_game_music\n",
+       " Never          :163   Never          : 83    Never          :197         \n",
+       " Rarely         :181   Rarely         : 79    Rarely         :173         \n",
+       " Sometimes      :167   Sometimes      :185    Sometimes      :164         \n",
+       " Very frequently:118   Very frequently:282    Very frequently: 95         \n",
+       "                                                                          \n",
+       "                                                                          \n",
+       "                                                                          \n",
+       "    anxiety      depression     insomnia        ocd      music_effects\n",
+       " 7      :103   7      : 82   0      :129   0      :211   7      :103  \n",
+       " 8      :100   6      : 79   2      : 67   1      : 83   8      :100  \n",
+       " 6      : 74   2      : 76   1      : 66   2      : 81   6      : 74  \n",
+       " 3      : 62   0      : 68   3      : 62   3      : 56   3      : 62  \n",
+       " 10     : 59   8      : 67   7      : 54   5      : 49   10     : 59  \n",
+       " 4      : 49   4      : 56   6      : 53   4      : 35   4      : 49  \n",
+       " (Other):182   (Other):201   (Other):198   (Other):114   (Other):182  "
       ]
      },
      "metadata": {},
@@ -1079,7 +1072,74 @@
     }
    ],
    "source": [
+    "music_table <- music_table %>% select(-1,-33) \n",
     "summary(music_table)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "f8255ba6",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-12-20T21:42:24.953840Z",
+     "iopub.status.busy": "2022-12-20T21:42:24.952129Z",
+     "iopub.status.idle": "2022-12-20T21:42:24.971356Z",
+     "shell.execute_reply": "2022-12-20T21:42:24.969504Z"
+    },
+    "papermill": {
+     "duration": 0.031518,
+     "end_time": "2022-12-20T21:42:24.974012",
+     "exception": false,
+     "start_time": "2022-12-20T21:42:24.942494",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "\n",
+       "       Classical          Country              EDM             Folk \n",
+       "              40               21               36               26 \n",
+       "          Gospel          Hip hop             Jazz            K pop \n",
+       "               4               32               19               25 \n",
+       "           Latin             Lofi            Metal              Pop \n",
+       "               3               10               78               97 \n",
+       "             R&B              Rap             Rock Video game music \n",
+       "              30               20              151               37 "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "table(music_table$fav_genre)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c9b3c236",
+   "metadata": {
+    "papermill": {
+     "duration": 0.006728,
+     "end_time": "2022-12-20T21:42:24.988147",
+     "exception": false,
+     "start_time": "2022-12-20T21:42:24.981419",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "### Infernces from the summary above\n",
+    "\n",
+    "* Most of the user have theie streaming platform to be Spotify and the list is Pandora.\n",
+    "* The favorite genre for this sample space of users is Rock and the least favorite is Latin.\n",
+    "* There are 206 instrumentalists and 110 composers in the users\n",
+    "* About 500 users listen to music when working\n",
+    "* About 353 users listen to music in a foreign language while  273 users do not"
    ]
   }
  ],
@@ -1099,14 +1159,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 6.386589,
-   "end_time": "2022-12-17T00:25:13.073438",
+   "duration": 7.500072,
+   "end_time": "2022-12-20T21:42:25.119629",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-12-17T00:25:06.686849",
+   "start_time": "2022-12-20T21:42:17.619557",
    "version": "2.4.0"
   }
  },
